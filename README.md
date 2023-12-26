@@ -1,1 +1,1 @@
-# It is a bsic HTML,CSS,JS base BMI(body mass index) Calculater
+# It is a bsic HTML,CSS,JS based BMI(body mass index) Calculater
